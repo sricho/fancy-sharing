@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["stu.richo@gmail.com"]
   spec.description   = %q{Nice looking social share buttons for your website that are easy to customize to your sites aesthetics.}
   spec.summary       = %q{Nice looking social share buttons for your website that are easy to customize to your sites aesthetics.}
-  spec.homepage      = "http://github.com/sricho/fancy-shares"
+  spec.homepage      = "http://github.com/sricho/fancy-sharing"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
